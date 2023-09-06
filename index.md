@@ -18,3 +18,6 @@ df = pd.DataFrame(np.random.randn(100,4),columns='A B C D'.split())
 df.head()
 df2 = pd.DataFrame({'Category':['A','B','C'],'Values':[32,43,50]})
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
